@@ -8,9 +8,11 @@
 <!-- some long code -->
 
 [return to menu](#menu)
+### Name
+### header2
 
 
-### Name（リポジトリ/プロジェクト/OSSなどの名前）
+## Name（リポジトリ/プロジェクト/OSSなどの名前）
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
 
