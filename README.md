@@ -3,8 +3,8 @@
 
 ## 目次
 * [CartPoleとは？](#CartPoleとは？)
-* [プログラム一覧](#プログラム一覧)
 * [Versionについて](#Versionについて)
+* [プログラム一覧](#プログラム一覧)
 * [インストール方法](#インストール方法)
 * [実行結果](#実行結果)
 * [参照サイト](#参照サイト)
@@ -132,7 +132,13 @@ plt.savefig("cartpole.png")
 plt.figure()
 
 ```
-
+## インストール方法
+これらをインストールしてください
+```bash
+$ pip install matplotlib
+$ python3 -m pip install pygame==2.5.1
+$ pip install gym==0.25.1
+```
 ## 実行結果
 
 Episodeが1000回に達するまで実行するようにした結果、おおよそ500回までには200stepまで安定するようになった.
