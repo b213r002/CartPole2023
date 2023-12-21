@@ -2,16 +2,15 @@
 強化学習で作成したプログラム 　作者　市川
 
 ## menu
-* [to header1](#header1)
+* [to Name](#Name)
 * [to header2](#header2)
 
 <!-- some long code -->
 
 [return to menu](#menu)
-### header1
-### header2
 
-## Name（リポジトリ/プロジェクト/OSSなどの名前）
+
+### Name（リポジトリ/プロジェクト/OSSなどの名前）
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
 
