@@ -2,7 +2,7 @@
 強化学習で作成したプログラム 　作者　市川
 
 ## menu
-* [to Name](#Name)
+* [Name](#Name)
 * [to header2](#header2)
 
 <!-- some long code -->
