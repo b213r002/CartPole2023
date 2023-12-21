@@ -7,6 +7,7 @@
 * [プログラム一覧](#プログラム一覧)
 * [インストール方法](#インストール方法)
 * [実行結果](#実行結果)
+* [注意点](#注意点)
 * [参照サイト](#参照サイト)
 
 <!-- some long code -->
@@ -166,6 +167,9 @@ len(step_list) = 1000
 ```
 次の図は学習内容を表したものである.
 ![cartpole](https://github.com/b213r002/CartPole2023/assets/153800075/ae550bfc-8e33-4811-bbaf-fd907768bad2)
+
+## 注意点
+すでに別のバージョンがインストールされている場合、再度インストールを行うか仮想環境を作ってください.
 
 ## 参照サイト
 https://medium.com/swlh/using-q-learning-for-openais-cartpole-v1-4a216ef237df
