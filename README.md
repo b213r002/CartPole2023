@@ -133,7 +133,7 @@ plt.figure()
 
 ```
 ## インストール方法
-これらをインストールしてください
+次のようにインストールしてください
 ```bash
 $ pip install matplotlib
 $ python3 -m pip install pygame==2.5.1
