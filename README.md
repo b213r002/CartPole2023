@@ -1,30 +1,19 @@
 # CartPole2023
 強化学習で作成したプログラム 　作者　市川
 
-## menu
-* [Name](#Name)
-* [to header2](#header2)
+## 目次
+* [CartPoleとは？](#CartPoleとは？)
+* [実行環境](#実行環境)
+* 
 
 <!-- some long code -->
 
-[return to menu](#menu)
-## Name
-### header2
+[return to menu](#目次)
+## CartPoleとは？
+
+## 実行環境
 
 
-## Name（リポジトリ/プロジェクト/OSSなどの名前）
-
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
-
-"hoge"が何かを簡潔に紹介する
-
-## DEMO
-
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
-
-## Features
-
-"hoge"のセールスポイントや差別化などを説明する
 
 ## Requirement
 
@@ -54,13 +43,4 @@ python demo.py
 ## Note
 
 注意点などがあれば書く
-
-# Author
-
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
 
