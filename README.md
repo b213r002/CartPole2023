@@ -14,7 +14,8 @@
 [return to menu](#目次)
 ## CartPoleとは？
 Cartpoleとは[OpenAI Gym](https://github.com/openai/gym)が提供するゲーム環境で倒立振子を行うゲームである.振り子は吊り下げられた状態が安定であるが、倒立振子とは棒を台車に乗せて立たせているため、不安定であることから本質的に倒立状態を保つために能動的に制御する必要がある.この制御をCartpoleプログラムによって学習させ安定した制御を行わせることを目的とする.
-![GettyImages-1323306331-740x524_gray](https://github.com/b213r002/CartPole2023/assets/153800075/515cf7e0-b963-4905-b8f9-a11f3ca40b00)
+![Screenshot from 2023-12-21 16-18-27](https://github.com/b213r002/CartPole2023/assets/153800075/2fe078dc-c72a-4c22-a68f-b13b500f4d63)
+
 
 ## 実行環境
 
